@@ -31,7 +31,7 @@
       this.button1 = new System.Windows.Forms.Button();
       this.resetBtn = new System.Windows.Forms.Button();
       this.lblScore = new System.Windows.Forms.Label();
-      this.label1 = new System.Windows.Forms.Label();
+      this.lblHuidigeWorp = new System.Windows.Forms.Label();
       this.SuspendLayout();
       // 
       // button1
@@ -65,16 +65,14 @@
       this.lblScore.TabIndex = 2;
       this.lblScore.Text = "Score: 0";
       // 
-      // label1
+      // lblHuidigeWorp
       // 
-      this.label1.AutoSize = true;
-      this.label1.Location = new System.Drawing.Point(446, 167);
-      this.label1.Name = "label1";
-      this.label1.Size = new System.Drawing.Size(406, 40);
-      this.label1.TabIndex = 3;
-      this.label1.Text = "Instructies: Scoreboard werkt niet zoals het zou moeten.\r\nProbeer bij reset het h" +
-    "oogst aantal ogen te hebben.";
-      this.label1.TextAlign = System.Drawing.ContentAlignment.BottomRight;
+      this.lblHuidigeWorp.AutoSize = true;
+      this.lblHuidigeWorp.Location = new System.Drawing.Point(394, 145);
+      this.lblHuidigeWorp.Name = "lblHuidigeWorp";
+      this.lblHuidigeWorp.Size = new System.Drawing.Size(118, 20);
+      this.lblHuidigeWorp.TabIndex = 3;
+      this.lblHuidigeWorp.Text = "Huidige worp: 0";
       // 
       // Yahtzee
       // 
@@ -82,7 +80,7 @@
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.AutoSize = true;
       this.ClientSize = new System.Drawing.Size(864, 216);
-      this.Controls.Add(this.label1);
+      this.Controls.Add(this.lblHuidigeWorp);
       this.Controls.Add(this.lblScore);
       this.Controls.Add(this.resetBtn);
       this.Controls.Add(this.button1);
@@ -100,7 +98,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button resetBtn;
         private System.Windows.Forms.Label lblScore;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblHuidigeWorp;
     }
 }
 

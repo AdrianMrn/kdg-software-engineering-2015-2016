@@ -34,3 +34,6 @@ C:\Users\Adriaan\Desktop\lemonade\lemonade\obj\Debug\lemonade.UpgradeView.resour
 C:\Users\Adriaan\Desktop\lemonade\lemonade\obj\Debug\lemonade.csproj.GenerateResource.Cache
 C:\Users\Adriaan\Desktop\lemonade\lemonade\obj\Debug\lemonade.exe.manifest
 C:\Users\Adriaan\Desktop\lemonade\lemonade\obj\Debug\lemonade.application
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-03-versiebeheer\lemonade\bin\Debug\lemonade.exe.config
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-03-versiebeheer\lemonade\obj\Debug\lemonade.exe
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-03-versiebeheer\lemonade\obj\Debug\lemonade.pdb

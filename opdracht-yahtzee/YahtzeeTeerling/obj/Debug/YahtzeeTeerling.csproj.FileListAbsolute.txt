@@ -42,3 +42,9 @@ C:\Users\Adriaan\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerli
 C:\Users\Adriaan\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.Yahtzee.resources
 C:\Users\Adriaan\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.YahtzeeView.resources
 C:\Users\Adriaan\Desktop\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.csproj.GenerateResource.Cache
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-yahtzee\YahtzeeTeerling\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-yahtzee\YahtzeeTeerling\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-yahtzee\YahtzeeTeerling\bin\Debug\YahtzeeTeerling.exe.config
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-yahtzee\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.exe
+C:\Users\Adriaan\Dropbox\KDG\2015-16\Software Engineering\echtegit\opdracht-yahtzee\YahtzeeTeerling\obj\Debug\YahtzeeTeerling.pdb

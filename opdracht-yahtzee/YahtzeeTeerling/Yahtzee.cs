@@ -17,6 +17,7 @@ namespace YahtzeeTeerling
         public int aantalTeerlingen = 5;
         int maxAantalWorpen = 3;
         int score = 0;
+        int huidigeScore = 0;
 
         public Yahtzee()
         {
@@ -67,11 +68,22 @@ namespace YahtzeeTeerling
                 resetBtn.Enabled = true;
             }
 
+            huidigeScore = 0;
+            for (int i = 0; i < aantalTeerlingen; i++)
+            {
+              TeerlingController huidigeTeerling = teerlingenLijst[i];
+              huidigeScore += huidigeTeerling._model.AantalOgen;
+              lblHuidigeWorp.Text = "Huidige score: " + huidigeScore.ToString();
+            }
+
             
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+          huidigeScore = 0;
+          lblHuidigeWorp.Text = "Huidige score: " + huidigeScore.ToString();
+
           for (int i = 0; i < aantalTeerlingen; i++)
           {
             TeerlingController huidigeTeerling = teerlingenLijst[i];
